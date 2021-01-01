@@ -3,7 +3,7 @@ categories:
     - siteground
 tags:
     - black
-name: SiteGround elePHPant
+name: Groundy
 sponsor: SiteGround Web Hosting Company
 reverse: SiteGround Logo
 photos:
@@ -16,4 +16,4 @@ photos:
         link: https://imgur.com/05aLjFL
         credit: Yavor Mihaylov
 ---
-Created by the website hosting company [SiteGround](https://www.siteground.com) to celebrate the release of PHP 8 with PHP enthusiasts. Its uniqueness comes with different-colored feet and ears. SiteGround uses it to giving away for PHP quizzes, raffles, and events.
+Created by the website hosting company [SiteGround](https://www.siteground.com) to celebrate the release of PHP 8 with PHP enthusiasts. His uniqueness comes with different-colored feet and ears. SiteGround uses him to giving away for PHP quizzes, raffles, and events.
